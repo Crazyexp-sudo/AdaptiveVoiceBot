@@ -55,3 +55,7 @@ launch.vbs
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+Support For Mac/Linux Coming Soon.
+For Sharing Ideas and Feedback:-
+mailto:coderexpo.sudo@gmail.com
